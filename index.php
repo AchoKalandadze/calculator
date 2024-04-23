@@ -12,7 +12,7 @@
             <option value="+">+</option>
             <option value="-">-</option>
             <option value="*">*</option>
-            <option value="/">/</option>
+            <option value="/">levana</option>
         </select>
         <input type="number" name="num2">
         <button type="submit">=</button>
